@@ -9,4 +9,4 @@ I'm a Full Stack Developer and Informatic Engineering student.<br><br>Since I wa
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maurorodriguez&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Reach me:
-<a href="https://www.linkedin.com/in/rodriguez-mauro/" target="_blank" ><img src="https://1000marcas.net/wp-content/uploads/2020/01/LinkedIn-emblema.jpg"></a>
+<a href="https://www.linkedin.com/in/rodriguez-mauro/" target="_blank" ><img src="https://1000marcas.net/wp-content/uploads/2020/01/LinkedIn-emblema.jpg" width="200" height="200" ></a>
