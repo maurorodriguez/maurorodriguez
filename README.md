@@ -9,7 +9,16 @@ I'm a Full Stack Developer and Informatic Engineering student.<br><br>Since I wa
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maurorodriguez&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br><br>
 
 # 🚀 Projects:
-<h2> Henry's Burgers <h2>
+<h2 align="left"><a href="https://henrys-app.vercel.app/" target="_blank" >Henry's Burgers</a></h2>
+
+In this groupal project i learned how to work with a team with the SCRUM metodology. I also improved my technical and soft skills.
+
+Main functionalities:
+* Payment gateway (MercadoPago)
+* Email sending (NodeMail & EmailJS)
+* Native registration and login (JWT & bcrypt)
+* Login with Google (Auth0)
+* Upload photos to Cloudinary (change the product image and user profile picture)
 
 # Reach me:
 <a href="https://www.linkedin.com/in/rodriguez-mauro/" target="_blank" ><img src="https://1000marcas.net/wp-content/uploads/2020/01/LinkedIn-emblema.jpg" width="200"  ></a>
