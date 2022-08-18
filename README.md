@@ -15,8 +15,8 @@ In this groupal project i learned how to work with a team with the SCRUM metodol
 
 Main functionalities:
 * Payment gateway (MercadoPago)
-* Email sending (NodeMail & EmailJS)
-* Native registration and login (JWT & bcrypt)
+* Email sending (NodeMail and EmailJS)
+* Native registration and login (JWT and bcrypt)
 * Login with Google (Auth0)
 * Upload photos to Cloudinary (change the product image and user profile picture)
 
