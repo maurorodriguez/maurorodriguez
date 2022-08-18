@@ -60,4 +60,5 @@ Main functionalities:
 <a href="https://www.linkedin.com/in/rodriguez-mauro/" target="_blank" ><img src="https://1000marcas.net/wp-content/uploads/2020/01/LinkedIn-emblema.jpg" width="200"  ></a>
 
 <a href="mailto:rodriguezmauroalejo@hotmail.com" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/1200px-Logo_Gmail_%282015-2020%29.svg.png" width="200"  ></a>
-<a href=mailto:rodriguezmauroalejo@hotmail.com >gmail</a>
+
+[Rodriguez Mauro](mailto:rodriguezmauroalejo@hotmail.com?subject=[GitHub])
