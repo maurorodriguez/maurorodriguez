@@ -8,53 +8,6 @@ I'm a Full Stack Developer and Computer Engineering student.<br><br>Since I was 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maurorodriguez&theme=tokyonight&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maurorodriguez&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br><br>
 
-# 🚀 Projects:
-<h2 ><a href="https://henrys-app.vercel.app/" target="_blank" >Henry's Burgers</a></h2>
-
-In this groupal project i learned how to work with a team with the SCRUM metodology. I also improved my technical and soft skills.
-
-Technologies: 
-* React
-* Redux
-* Express
-* PostgreSQL
-* Sequelize
-* Bootstrap
-* MercadoPago
-* Nodemailer
-* JWT
-* Bcrypt
-* Auth0
-* Cloudinary
-
-Main functionalities:
-* Payment gateway (MercadoPago)
-* Email sending (Nodemailer and EmailJS)
-* Native registration and login (JWT and bcrypt)
-* Login with Google (Auth0)
-* Upload photos to Cloudinary (change the product image and user profile picture)
-
-<img src="https://res.cloudinary.com/do5c7bxg8/image/upload/v1660802105/Henry-Burgers_ldpeqc.png" align="center"> <br/> <br/>
-
-<h2><a href="https://github.com/maurorodriguez/pi-food" target="_blank" >Food App</a></h2>
-
-With this project i improved my frontend and backend skills by using the <a href="https://spoonacular.com/food-api">Spoonacular API</a>
-
-Technologies: 
-* React
-* Redux
-* Express
-* PostgreSQL
-* Sequelize
-
-Main functionalities:
-* View recipes
-* Paginate recipes
-* Search recipe
-* View recipe detail
-* Create new recipe
-
-<img src="https://res.cloudinary.com/do5c7bxg8/image/upload/v1660802348/Pi-food_wtfnji.png" align="center"> <br/> <br/>
 
 # Reach me:
 <a href="https://www.linkedin.com/in/rodriguez-mauro/" target="_blank" ><img src="https://1000marcas.net/wp-content/uploads/2020/01/LinkedIn-emblema.jpg" width="200"  ></a>
